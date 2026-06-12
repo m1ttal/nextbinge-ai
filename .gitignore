@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pkl
+*.parquet
+.env
+data/raw/
+.vscode/
+.streamlit/
+.ipynb_checkpoints/
