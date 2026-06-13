@@ -147,7 +147,6 @@ nextbinge-ai/
 │
 ├── data/
 │   ├── processed/
-│   └── raw/
 │
 ├── notebooks/
 │
