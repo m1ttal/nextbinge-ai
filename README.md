@@ -1,5 +1,5 @@
 <h1 style="font-size:40px:">
-      <img src="app/assets/logo_favicon.png" alt="NextBinge AI Logo" width="26" style="vertical-align:middle; position:relative; top:5px">
+      <img src="app/assets/logo_favicon.png" alt="NextBinge AI Logo" width="24" style="vertical-align:middle;">
       NextBinge AI
 </h1>
 
