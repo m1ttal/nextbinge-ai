@@ -1,4 +1,8 @@
-# ![Logo](app/assets/logo_favicon.png) NextBinge AI
+<h1>
+      <img src="app/assets/logo_favicon.png" alt="NextBinge AI Logo" width="40" style="vertical-align:middle;">
+      NextBinge AI
+</h1>
+
 
 **NextBinge AI** is an AI-powered entertainment recommendation platform designed to help users discover movies, TV shows, and anime through intelligent recommendation systems.
 
