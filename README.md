@@ -1,4 +1,4 @@
-# 🎬 NextBinge AI
+# ![Logo](app/assets/logo_favicon.png) NextBinge AI
 
 **NextBinge AI** is an AI-powered entertainment recommendation platform designed to help users discover movies, TV shows, and anime through intelligent recommendation systems.
 
